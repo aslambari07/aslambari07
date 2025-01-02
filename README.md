@@ -26,7 +26,7 @@ Welcome to my GitHub profile! I'm a **Fullstack Developer** and **Curriculum Dev
 
 ## 🌍 Connect with Me:
 - 💼 [LinkedIn](https://www.linkedin.com/in/aslam-7-5b1558272/)
-- 🌐 [Portfolio](https://your-portfolio-url.com)
+- 🌐 [Portfolio](http://aslamdev.unaux.com/)
 - 📧 Email: aslambari08@gmail.com
 
 ---
